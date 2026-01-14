@@ -13,7 +13,7 @@ A simple Python console application that checks the strength of a password based
 - Loops
 - Conditions
 - Functions
-- 
+
  How to Run
 1. Clone the repository
 2. Run the file using:
