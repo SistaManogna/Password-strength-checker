@@ -40,3 +40,5 @@ def check_password_strength(password):
 password = input("Enter your password: ")
 print()
 check_password_strength(password)
+
+# comment 
